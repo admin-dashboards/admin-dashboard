@@ -1,8 +1,10 @@
 # [Admin Dashboards](https://admin-dashboards.com)
 
-**[Admin Dashboards](https://admin-dashboards.com)** is an open-source project created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers, a blazing fast site and best SEO practices to promote the content in first pages in all major search engines (Google, Bing & the gang)   
+**[Admin Dashboards](https://admin-dashboards.com)** is an open-source project created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers, a blazing fast site and best SEO practices to promote the content in first pages in all major search engines (Google, Bing & the gang) with $0 costs.   
 
 > Hacked by [Sm0ke](https://twitter.com/Sm0keDev) .. <('_')> ..
+
+<br />
 
 ## The motivation
 
@@ -77,4 +79,4 @@ To get Google's attention, we need to pass this simple checklist:
 - Upvote on [Admin-Dashboards on Reddit](https://www.reddit.com/r/reactjs/comments/c64vw2/react_dashboards_opensource_released_under_the/)
 
 ---
-[Admin Dashboards](https://admin-dashboards.com) - open-source project Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
+[Admin Dashboards](https://admin-dashboards.com) - open-source project. 
