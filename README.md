@@ -1,6 +1,8 @@
 # [Admin Dashboards](https://admin-dashboards.com)
 
-**Admin Dashboards** is an [open-source project](https://github.com/admin-dashboards/), created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers. Hacked by [Sm0ke](https://twitter.com/Sm0keDev).
+**Admin Dashboards** is an [open-source project](https://github.com/admin-dashboards/), created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers. 
+
+Hacked by [Sm0ke](https://twitter.com/Sm0keDev) .. <('_')> ..
 
 <br />
 
