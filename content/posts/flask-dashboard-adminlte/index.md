@@ -1,7 +1,7 @@
 ---
 title: "Flask Dashboard AdminLTE"
 slug: flask-dashboard-adminlte
-date: 2019-10-29
+date: 2019-11-23
 language: en
 cover: ./flask-dashboard-adminlte-cover.jpg
 tags:
@@ -15,13 +15,19 @@ One of the best **open-source admin dashboard** & control panel theme. Built on 
 
 ![Flask Dashboard AdminLTE - Open-Source Admin Panel](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-intro.gif)
 
-## Flask Dashboard features
+## [Flask](https://www.palletsprojects.com/p/flask/) Dashboard features
 
-- [SQLite](https://www.sqlite.org/index.html) database
-- [SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) ORM
-- [Jinja2](http://jinja.pocoo.org/docs/2.10/) templating system.
+- SQLite, PostgreSQL
+- SQLAlchemy ORM
+- Alembic
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Unitary tests
+- Deployment scripts: Docker, Gunicorn
+- **License MIT**
 
-Your project requires authentication? No worries, [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) includes authentication by default. Other features: FTP deploy script, static export via Frozen-Flask.
+Your project requires authentication? No worries, [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) includes authentication by default.
 
 <br />
 
@@ -29,17 +35,42 @@ Your project requires authentication? No worries, [Flask Dashboard AdminLTE](htt
 
 The source code and the documentation contain enough information to help anyone building the app. In case you want to build this product, without leaving this page, just type:
 
-```
-$ # clone the sources
+```bash
+$ # Get the code
 $ git clone https://github.com/app-generator/flask-dashboard-adminlte.git
 $ cd flask-dashboard-adminlte
 $
-$ # install modules using a virtualenv
+$ # Virtualenv modules installation (Unix based systems)
 $ virtualenv --no-site-packages env
 $ source env/bin/activate
 $
-$ python app.py
-$ # app is running on port 5000
+$ # Virtualenv modules installation (Windows based systems)
+$ # virtualenv --no-site-packages env
+$ # .\env\Scripts\activate
+$ 
+$ # Install modules
+$ # SQLIte version (no PostgreSQL)
+$ pip3 install -r requirements-sqlite.txt
+$ 
+$ # OR with PostgreSQL connector
+$ pip install -r requirements.txt
+$
+$ # Set the FLASK_APP environment variable
+$ (Unix/Mac) export FLASK_APP=run.py
+$ (Windows) set FLASK_APP=run.py
+$ (Powershell) $env:FLASK_APP = ".\run.py"
+$
+$ # Enable debug (for development)
+$ # (Unix/Mac) export FLASK_ENV=development
+$ # (Windows) set FLASK_ENV=development
+$ # (Powershell) $env:FLASK_ENV = "development"
+$
+$ # Start the application (development mode)
+$ # --host=0.0.0.0 - expose the app on all network interfaces (default 127.0.0.1)
+$ # --port=5000    - specify the app port (default 5000)  
+$ flask run --host=0.0.0.0 --port=5000
+$
+$ # Access the dashboard in browser: http://127.0.0.1:5000/
 ```
 
 If all goes well, you shoud see **[Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** app running, by visiting **localhost:5000** in your preferred browser.

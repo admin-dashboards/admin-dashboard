@@ -1,7 +1,7 @@
 ---
 title: Admin Dashboards - Open-Source and Free
 slug: blog/admin-dashboards-open-source-and-free
-date: 2019-11-03
+date: 2019-11-23
 cover: ./admin-dashboards-open-source-and-free-cover.jpg
 generate-card: false
 language: en
@@ -31,6 +31,50 @@ All **open-source admin panels** listed in this article are suitable for hobby a
 The existing `Top 20+ Admin Dashboards` articles, most of them, are written by publishers with this bad habit of sniffing a lot of commercial apps in the content, without mention this aspect in the title.
 
 I’m not saying this is good or bad, but is not obvious if the apps are free or not, just by reading the title. **Well, this is not the case here**. Let's go!
+
+## [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
+
+**[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** coded in **Flask Framework** on top of **AdminLTE** design. **Features**:
+
+- SQLite, PostgreSQL, 
+- SQLAlchemy ORM, Alembic (database migrations)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Deployment scripts: Docker, Gunicorn
+
+<br />
+
+![Flask Dashboard Argon - Open-Source Flask Boilerplate.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-intro.gif)
+
+<br />
+
+> Links
+
+- [Flask Dashboard AdminLTE](https://github.com/app-generator/flask-dashboard-adminlte) - The Source Code
+- [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Official Product Page
+- [Flask Dashboard AdminLTE](https://flask-dashboard-adminlte.appseed.us/) - Live DEMO
+
+
+## [Flask Dashboard ModularAdmin](https://github.com/app-generator/flask-dashboard-modular-admin)
+
+**Flask Modular Admin** is a simple open-source admin panel coded in Flask on top of a beautiful design crafted by **ModularCode**. Features: 
+
+- SQLite database
+- SQLAlchemy ORM
+- Session-Based authentication flow (login, register)
+- UI Kit: [ModularAdmin](https://github.com/app-generator/fork-modular-admin-html) by **ModularCode**
+
+<br />
+
+### Dashboard Links
+
+- [Flask Dashboard Modular Admin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Product page
+- [Flask Dashboard Modular Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Documentation
+- [Flask Dashboard Modular Admin](https://flask-dashboard-modular-admin.appseed.us/) - Live DEMO
+
+![Flask Dashboard ModularAdmin - Open-Source Flask Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-modular-admin-intro.gif)
+
+<br />
 
 ## [Admin Dashboard Black](https://www.creative-tim.com/product/black-dashboard?ref=appseed)
 
