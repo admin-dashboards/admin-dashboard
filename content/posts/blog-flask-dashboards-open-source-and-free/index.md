@@ -129,7 +129,7 @@ Other features: Authentication (Register, Login), static export via Frozen-Flask
 
 ![Flask Material Dashboard - Open-Source Flask Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-material-design-intro.gif)
 
-### Argon Dashboard Links
+### Flask Material Dashboard Links
 
 - [Flask Material Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - official dashboard page
 - [Flask Material Dashboard](https://flask-argon-dashboard.appseed.us/) - Live DEMO
@@ -148,10 +148,10 @@ Other features: Authentication (Register, Login), static export via Frozen-Flask
 
 ![Flask Dashboard Black - Open-Source Flask Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-intro.gif)
 
-### Argon Dashboard Links
+### Flask Dashboard Black Links
 
 - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black) - official dashboard page
-- [Flask Dashboard Black](https://https://flask-black-dashboard.appseed.us/.appseed.us/) - Live DEMO
+- [Flask Dashboard Black](https://www.youtube.com/watch?v=plbWBmnQuGY) - Live DEMO
 - [Flask Dashboard Black](https://github.com/app-generator/flask-black-dashboard) - dashboard sources
 
 <br />
@@ -172,7 +172,7 @@ Other features: Authentication (Register, Login), static export via Frozen-Flask
 ### Flask Dashboard ModularAdmin
 
 - [Flask Dashboard ModularAdmin](https://appseed.us/admin-dashboards/flask-dashboard-modular-admin) - official dashboard page
-- [Flask Dashboard ModularAdmin](https://https://flask-dashboard-modular-admin.appseed.us/.appseed.us/) - Live DEMO
+- [Flask Dashboard ModularAdmin](https://www.youtube.com/watch?v=81Eg1iUBA7A) - Live DEMO
 - [Flask Dashboard ModularAdmin](https://github.com/app-generator/flask-dashboard-modular-admin) - dashboard sources
 
 <br />
@@ -202,7 +202,7 @@ Open-Source Admin Dashboard with Atlantis Design coded in Flask.
 
 <br />
 
-### Dashboard Links
+### Flask Dashboard Modular Admin Links
 
 - [Flask Dashboard SRTDash](https://appseed.us/admin-dashboards/flask-dashboard-srtdash) - Official Product Page
 - [Flask Dashboard SRTDash](https://flask-dashboard-srtdash.appseed.us/) - Live DEMO

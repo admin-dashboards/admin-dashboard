@@ -180,8 +180,8 @@ $ gulp # start the app in development mode
 
 ### Dashboard Links
 
-- [Admin Dashboard Sing](https://flatlogic.github.io/sing-app/) - the source code
-- [Admin Dashboard Sing](https://github.com/flatlogic/sing-app) Live DEMO
+- [Admin Dashboard Sing](https://github.com/flatlogic/sing-app) - the source code
+- [Admin Dashboard Sing](https://flatlogic.github.io/sing-app/) Live DEMO
 
 ![Admin Dashboard SingApp - Open-Source Admin Dashboard.](https://github.com/app-generator/static/blob/master/admin-dashboards/admin-dashboard-bootstrap-singapp-intro.gif?raw=true)
 

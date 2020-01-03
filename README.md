@@ -1,6 +1,8 @@
 # [Admin Dashboards](https://admin-dashboards.com)
 
-**Admin Dashboards** is an [open-source project](https://github.com/admin-dashboards/), created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers. Hacked by [Sm0ke](https://twitter.com/Sm0keDev).
+**[Admin Dashboards](https://admin-dashboards.com)** is an open-source project created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers, a blazing fast site and best SEO practices to promote the content in first pages in all major search engines (Google, Bing & the gang) with $0 costs.   
+
+> Hacked by [Sm0ke](https://twitter.com/Sm0keDev) .. <('_')> ..
 
 <br />
 
@@ -28,6 +30,7 @@ To get Google's attention, we need to pass this simple checklist:
 - **The speed**. I was testing a few static website generators (Hugo, Gridsome, Jekkyl) but the winner was [GatsbyJS](https://www.gatsbyjs.org/). The result: this app scores more than 90 on Lighthouse and is a clone of this [gatsby starter](https://www.gatsbyjs.org/starters/GatsbyCentral/gatsby-v2-starter-lumen/). There is no login, registration, the entire app is plain HTML, that follows best SEO, and usability practices. You may read [here](https://www.gatsbyjs.org/docs/conceptual-guide/) about Gatsby.  
 
 - **The website structure**:
+
   - Categories are keywords related to the `admin dashboard` keyword. The winners (selected by the search volumes) are:
   - `react dashboard` - 2.9k mo searches
   - `vue dashboard` - 1k mo searches
@@ -76,4 +79,4 @@ To get Google's attention, we need to pass this simple checklist:
 - Upvote on [Admin-Dashboards on Reddit](https://www.reddit.com/r/reactjs/comments/c64vw2/react_dashboards_opensource_released_under_the/)
 
 ---
-[Admin Dashboards](https://admin-dashboards.com) - open-source project Hacked by [Sm0ke](https://twitter.com/Sm0keDev)
+[Admin Dashboards](https://admin-dashboards.com) - open-source project. 
