@@ -17,7 +17,7 @@ description: "Flask Dashboard coded on top of Paper Design Pro crafted by Creati
 - [SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) ORM
 - [Jinja2](http://jinja.pocoo.org/docs/2.10/) templating system. 
 
-Your project requires authentication? No worries, Flask Argon Dashboard includes authentication by default. 
+Does your project require authentication? No worries, Flask Argon Dashboard includes authentication by default. 
 Other features: FTP deploy script, static export via Frozen-Flask.
 
 <br />
