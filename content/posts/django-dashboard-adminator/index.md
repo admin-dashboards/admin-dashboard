@@ -5,9 +5,9 @@ cover: ./django-dashboard-adminator-cover.jpg
 date: 2020-01-25
 language: en
 tags:
-  - django-dashboard
-  - admin-dashboards
-  - open-source
+ - django-dashboard
+ - admin-dashboards
+ - adminator
 description: "A beautiful and open-source admin dashboard with Adminator Design, provided by ColorLib coded in Django Framework."
 ---
 
