@@ -6,7 +6,7 @@ cover: ./open-source-admin-dashboard-tabler-cover.jpg
 language: en
 tags:
   - blog
-  - admin-dashboard
+  - admin-dashboards
   - tabler
 description: "A beautiful Dashboard UI Kit, open-source and released under the MIT license."
 ---
