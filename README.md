@@ -1,8 +1,22 @@
+
 # [Admin Dashboards](https://admin-dashboards.com)
 
-**[Admin Dashboards](https://admin-dashboards.com)** is an open-source project created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers, a blazing fast site and best SEO practices to promote the content in first pages in all major search engines (Google, Bing & the gang) with $0 costs.   
+**[Admin Dashboards](https://admin-dashboards.com)** is an open-source project created to promote the work of freelancers and small agencies in front of **big sharks**, using content submitted by developers, a blazing fast site and best SEO practices to promote the content in first pages in all major search engines (Google, Bing & the gang) with $0 costs.
 
 > Hacked by [Sm0ke](https://twitter.com/Sm0keDev) .. <('_')> ..
+
+<br />
+
+### The status - 
+
+> Date of the last update - 2020-02-25
+
+| Keyword | Searches/mo | Position | Link |
+| --- | --- | --- | --- |
+| [admin dashboards](https://www.google.com/search?q=admin+dashboards) | 6k | 16 | [admin-dashboards.com](https://admin-dashboards.com/) |
+| [flask dashboard](https://www.google.com/search?q=flask+dashboard) | 0.7k | 9 | [Flask Dashboard Atlantis](https://admin-dashboards.com/flask-dashboard-atlantis) |
+| [react dashboards](https://www.google.com/search?q=react+dashboards) | 3k | 26 | [React Dashboards - Open-Source and Free](https://admin-dashboards.com/blog/react-dashboards-curated-open-source-apps) |
+| [adminator](https://www.google.com/search?q=adminator) | - | 7 | [Admin Dashboard Adminator](https://admin-dashboards.com/bootstrap-dashboard-adminator) |
 
 <br />
 
@@ -40,7 +54,7 @@ To get Google's attention, we need to pass this simple checklist:
 
 - **The content**: the information for each product will be curated to provide only relevant information to the audience. 
 
-- **The referrals** The Github repository was created to follow the domain signature. `github.com/admin-dashboards`. Also, the products, with a little bit of traction from the audience, will have a correspondent project on Github, on address `github.com/admin-dashboards/killer-dashboard`. Google loves this kind of s**t, and will rank the project better than others, because the information (keyword, content) is consistent, across multiple domains.    
+- **The referrals** The Github repository was created to follow the domain signature. `github.com/admin-dashboards`. Also, the products, with a little bit of traction from the audience, will have a correspondent project on Github, on address `github.com/admin-dashboards/killer-dashboard`. Google loves this kind of s**t, and will rank the project better than others, because the information (keyword, content) is consistent, across multiple domains.
 
 ```bash
 ## Site structure
@@ -72,21 +86,29 @@ To get Google's attention, we need to pass this simple checklist:
 
 <br />
 
-## Latest [Blog](https://admin-dashboards.com/tags/blog) Content
+## Latest (5) [Blog](https://admin-dashboards.com/tags/blog) Articles
 
+- [Black Design Admin Dashboards](https://admin-dashboards.com/blog/blog-open-source-admin-dashboards-black-design)
 - [Admin Dashboards Providers](https://admin-dashboards.com/blog/open-source-admin-dashboards-providers)
+- [Flask Dashboard Black](https://admin-dashboards.com/blog/flask-dashboard-black-open-source-admin-panel)
 - [Django Dashboards - Open-Source and Free](https://admin-dashboards.com/blog/django-dashboards-open-source-and-free)
 - [Admin Dashboards - Open-Source and Free](https://admin-dashboards.com/blog/admin-dashboards-open-source-and-free)
-- [Flask Dashboards - Open-Source and Free](https://admin-dashboards.com/blog/flask-dashboards-open-source-and-free)
-- [React Dashboards - Open-Source and Free](https://admin-dashboards.com/blog/react-dashboards-curated-open-source-apps)
-- [Vue Dashboard - Open-Source and Free](https://admin-dashboards.com/blog/vue-dashboard-open-source-and-free)
 
-## Latest Products
+> Note: **Add your blog article** - fork & submit the content
 
-- [Flask Dashboard Black](https://admin-dashboards.com/blog/flask-dashboard-black-open-source-admin-panel)
+<br />
+
+## Latest (5) Products
+
 - [Flask Dashboard Adminator](https://admin-dashboards.com/flask-dashboard-adminator)
 - [Flask Dashboard AdminLTE](https://admin-dashboards.com/flask-dashboard-adminlte)
 - [Flask Dashboard Atlantis Dark](https://admin-dashboards.com/flask-dashboard-atlantis-dark)
+- [Django Atlantis Dark](https://admin-dashboards.com/django-dashboard-atlantis-dark)
+- [Flask Dashboard Shards](https://admin-dashboards.com/flask-dashboard-shards)
+
+> Note: **Add your admin dashboard** - fork & submit the product
+
+<br />
 
 ## Links
 
@@ -94,5 +116,8 @@ To get Google's attention, we need to pass this simple checklist:
 - Upvote [Admin-Dashboards](https://www.producthunt.com/posts/admin-dashboards) on Product hunt, and help us grow
 - Upvote on [Admin-Dashboards on Reddit](https://www.reddit.com/r/reactjs/comments/c64vw2/react_dashboards_opensource_released_under_the/)
 
+<br />
+
 ---
-[Admin Dashboards](https://admin-dashboards.com) - open-source project. 
+[Admin Dashboards](https://admin-dashboards.com) - open-source project.
+
