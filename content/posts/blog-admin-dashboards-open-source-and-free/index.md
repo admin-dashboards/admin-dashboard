@@ -36,7 +36,7 @@ I’m not saying this is good or bad, but is not obvious if the apps are free or
 
 **[Open-Source Admin Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)** coded in **Flask Framework** on top of **AdminLTE** design. **Features**:
 
-- SQLite, PostgreSQL, 
+- SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (database migrations)
 - Modular design with **Blueprints**
 - Session-Based authentication (via **flask_login**)
@@ -44,7 +44,7 @@ I’m not saying this is good or bad, but is not obvious if the apps are free or
 
 <br />
 
-![Flask Dashboard Argon - Open-Source Flask Boilerplate.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-intro.gif)
+![Flask Dashboard Argon - Open-Source Flask Boilerplate.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-adminlte-screen.png)
 
 <br />
 
@@ -54,10 +54,9 @@ I’m not saying this is good or bad, but is not obvious if the apps are free or
 - [Flask Dashboard AdminLTE](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - Official Product Page
 - [Flask Dashboard AdminLTE](https://flask-dashboard-adminlte.appseed.us/) - Live DEMO
 
-
 ## [Flask Dashboard ModularAdmin](https://github.com/app-generator/flask-dashboard-modular-admin)
 
-**Flask Modular Admin** is a simple open-source admin panel coded in Flask on top of a beautiful design crafted by **ModularCode**. Features: 
+**Flask Modular Admin** is a simple open-source admin panel coded in Flask on top of a beautiful design crafted by **ModularCode**. Features:
 
 - SQLite database
 - SQLAlchemy ORM
@@ -72,20 +71,20 @@ I’m not saying this is good or bad, but is not obvious if the apps are free or
 - [Flask Dashboard Modular Admin](https://docs.appseed.us/admin-dashboards/flask-dashboard-modular-admin) - Documentation
 - [Flask Dashboard Modular Admin](https://flask-dashboard-modular-admin.appseed.us/) - Live DEMO
 
-![Flask Dashboard ModularAdmin - Open-Source Flask Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-modular-admin-intro.gif)
+![Flask Dashboard ModularAdmin - Open-Source Flask Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-modular-admin-screen.png)
 
 <br />
 
 ## [Admin Dashboard Black](https://www.creative-tim.com/product/black-dashboard?ref=appseed)
 
-[Admin Dashboard Black](https://www.creative-tim.com/product/black-dashboard?ref=appseed) is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. 
+[Admin Dashboard Black](https://www.creative-tim.com/product/black-dashboard?ref=appseed) is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
 ### Dashboard Links
 
 - [Admin Dashboard Black demo](https://demos.creative-tim.com/black-dashboard/examples/dashboard.html)
 - [Admin Dashboard Black sources](https://github.com/creativetimofficial/black-dashboard)
 
-![Admin Dashboard Black - Bootstrap4 Admin Dashboard.](https://github.com/app-generator/static/blob/master/admin-dashboards/admin-dashboard-bootstrap-black-intro.gif?raw=true)
+![Admin Dashboard Black - Bootstrap4 Admin Dashboard.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-screen.png)
 
 ### Build from sources
 
@@ -98,12 +97,12 @@ $ gulp # start the app in development mode
 
 ## [Admin Dashboard Tabler](https://github.com/tabler/tabler)
 
-[Tabler](https://github.com/tabler/tabler?ref=appseed) Tabler is a free and **open-source Dashboard UI Kit** built on Bootstrap. This admin panel is for everyone who wants to create any templates based on our pre-made components. Admin panel features: 
+[Tabler](https://github.com/tabler/tabler?ref=appseed) Tabler is a free and **open-source Dashboard UI Kit** built on Bootstrap. This admin panel is for everyone who wants to create any templates based on our pre-made components. App Features:
 
 - **Responsive**: With support for mobile, tablet and desktop it doesn’t matter what device you’re using. Tabler is responsive in all major browsers.
-- **Cross Browser**: the theme works perfectly with Latest Chrome, Firefox+, Latest Safari, Opera, Edge and mobile browsers. 
+- **Cross Browser**: the theme works perfectly with Latest Chrome, Firefox+, Latest Safari, Opera, Edge and mobile browsers.
 
-![Admin Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/admin-dashboards/static/master/open-source-admin-dashboard-tabler-intro.gif)
+![Admin Dashboard Tabler - Open-Source Admin Panel.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-tabler-screen.png)
 
 ### Dashboard Links
 
@@ -142,7 +141,7 @@ CoreUI admin dashboard delivers a bunch of responsive, customizable, and reusabl
 - [Admin Dashboard CoreUI](https://coreui.io/demo/#main.html) - Live DEMO
 - [Admin Dashboard CoreUI](https://github.com/coreui/coreui-free-bootstrap-admin-template) - the source code
 
-![Admin Dashboard CoreUI - Free Bootstrap Dashboard](https://raw.githubusercontent.com/admin-dashboards/static/master/bootstrap-dashboard-coreui-intro.gif)
+![Admin Dashboard CoreUI - Free Bootstrap Dashboard](https://raw.githubusercontent.com/admin-dashboards/static/master/bootstrap-dashboard-coreui-screen.png)
 
 ### Build CoreUI from sources
 
@@ -163,7 +162,7 @@ $ npm run build # production build
 - [Admin Dashboard Argon](https://demos.creative-tim.com/argon-dashboard/index.html) - Live DEMO
 - [Admin Dashboard Argon](https://github.com/creativetimofficial/argon-dashboard) the source code published on Github
 
-![Admin Dashboard Argon - App ScreenShot.](https://raw.githubusercontent.com/app-generator/static/master/admin-dashboards/admin-dashboard-bootstrap-argon-intro.gif)
+![Admin Dashboard Argon - App ScreenShot.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-boilerplate-dashboard-argon-screen.png)
 
 ### Build from sources
 
@@ -176,7 +175,7 @@ $ gulp # start the app in development mode
 
 ## [Admin Dashboard Sing App](https://flatlogic.com/admin-dashboards/sing-app-html5-lite?ref=appseed)
 
-[Admin Dashboard Sing App](https://flatlogic.com/admin-dashboards/sing-app-html5-lite?ref=appseed) Sing App HTML5 Lite is a completely free and open-source admin dashboard template with stylish design and tons of ready-to-use programming features. Sing App HTML5 Lite is a fully responsive admin template built Bootstrap 4 and pure Javascript (No frameworks). 
+[Admin Dashboard Sing App](https://flatlogic.com/admin-dashboards/sing-app-html5-lite?ref=appseed) Sing App HTML5 Lite is a completely free and open-source admin dashboard template with stylish design and tons of ready-to-use programming features. Sing App HTML5 Lite is a fully responsive admin template built Bootstrap 4 and pure Javascript (No frameworks).
 
 ### Dashboard Links
 
@@ -202,7 +201,7 @@ $ gulp # start the app in development mode
 
 - [Dashboard Shards Lite](https://designrevision.com/downloads/shards-dashboard-lite/?ref=appseed) the official product page
 - [Dashboard Shards Lite demo](https://designrevision.com/demo/shards-dashboard-lite/)
-- [Dashboard Shards Lite sources](https://github.com/DesignRevision/shards-dashboard) 
+- [Dashboard Shards Lite sources](https://github.com/DesignRevision/shards-dashboard)
 
 ![Dashboard Shards Lite - Gif animated intro.](https://github.com/DesignRevision/shards-dashboard/raw/master/assets/demo-preview.gif)
 
