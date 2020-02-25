@@ -1,7 +1,7 @@
 ---
 title: Flask Dashboard Black
 slug: blog/flask-dashboard-black-open-source-admin-panel
-date: 2020-02-24
+date: 2020-02-23
 cover: ./cover.jpg
 language: en
 tags:
