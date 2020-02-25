@@ -7,7 +7,7 @@
 
 <br />
 
-### The status - 
+### Status in Google 
 
 > Date of the last update - 2020-02-25
 
