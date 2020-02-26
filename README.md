@@ -45,7 +45,7 @@ To get Google's attention, we need to pass this simple checklist:
 
 - **The website structure**:
 
-  - Categories are keywords related to the `admin dashboard` keyword. The winners (selected by the search volumes) are:
+  - Categories are keywords related to the main website keyword `admin dashboard`. The winners (selected by the search volumes) are:
   - `react dashboard` - 2.9k mo searches
   - `vue dashboard` - 1k mo searches
   - `angular dashboards` - 2.9k mo searches
