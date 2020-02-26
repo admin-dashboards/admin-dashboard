@@ -39,7 +39,7 @@ To get Google's attention, we need to pass this simple checklist:
 
 ## Implementation
 
-- The domain name **admin-dashboards.com**, match 100% the keyword we are targeting. And it was free. This fact forced me to think 'God is a hacker'
+- The domain name **admin-dashboards.com**, match 100% the keyword we are targeting. And it was free. This fact forced me to think `God is a hacker`
 
 - **The speed**. I was testing a few static website generators (Hugo, Gridsome, Jekkyl) but the winner was [GatsbyJS](https://www.gatsbyjs.org/). The result: this app scores more than 90 on Lighthouse and is a clone of this [gatsby starter](https://www.gatsbyjs.org/starters/GatsbyCentral/gatsby-v2-starter-lumen/). There is no login, registration, the entire app is plain HTML, that follows best SEO, and usability practices. You may read [here](https://www.gatsbyjs.org/docs/conceptual-guide/) about Gatsby.  
 
