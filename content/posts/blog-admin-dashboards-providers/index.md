@@ -23,6 +23,16 @@ The products and the providers were selected based on this list with criteria:
 - Actively supported by the publishers
 - Products are accesible on a public platform (Github, BitBucket)
 
+### The Short Lits
+
+- **[BootstrapDash](https://www.bootstrapdash.com/?ref=appseed)** - a small & brave Indian based company
+- **[Creative-Tim](https://www.creative-tim.com/bootstrap-themes/free?ref=appseed)** - a well-positioned Romanian based company
+- **[CoreUI](https://coreui.io/?ref=appseed)** - a strong company that ships cross tech products (Vue, React, jQuery)
+- **[CodeCalm](https://codecalm.net/?ref=appseed)** - most popular product is [Tabler](https://tabler.io/)
+- **[ThemeKita](https://www.themekita.com/?ref=appseed)** - the most popular product is [Atlantis Lite Bootstrap](https://themekita.com/atlantis-lite-bootstrap-dashboard.html)
+
+<br />
+
 > Note: this is an open list and **Admin-Dashboards.com** is an [open-source project](https://github.com/admin-dashboards/dashboards), that publish  content  submitted by developers. Feel free to fork the project and add your stuff. Thank you!
 
 ## What is [open-source](https://en.wikipedia.org/wiki/Open-source_software)
@@ -82,7 +92,7 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 > For more free and open-source admin dashboard, please access [Creative-Tim.com](https://www.creative-tim.com/).
 
-## [CoreUI](CoreUI)
+## [CoreUI](https://coreui.io/?ref=appseed)
 
 CoreUI admin dashboard delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps. CoreUI makes app development lightning fast.
 
