@@ -1,7 +1,7 @@
 ---
 title: Admin Dashboards Providers
 slug: blog/open-source-admin-dashboards-providers
-date: 2020-02-24
+date: 2020-03-05
 cover: ./cover.jpg
 language: en
 tags:
@@ -34,6 +34,22 @@ The products and the providers were selected based on this list with criteria:
 A dashboard is a type of graphical user interface which often provides at-a-glance views of key performance indicators (KPIs) relevant to a particular objective or business process. In other usage, **dashboard** is another name for "progress report" or "report." The **dashboard** is often displayed on a web page which is linked to a database that allows the report to be constantly updated  - ** *Wikipedia defnition* **.
 
 > Please find below the companies and their awesome open-source products:
+
+## [BootstrapDash](https://www.bootstrapdash.com/?ref=appseed)
+
+A young company from India that provides clean and customizable admin dashboards and templates / UI Kits with a great collection
+of plugins, pre-built widgets, and UI Components. 
+
+### [Star Admin Free](https://www.bootstrapdash.com/product/star-admin-free/?ref=appseed)
+
+Beautifully designed and well-coded admin template, that comes with excellent support from experts. Built using the latest technologies and up to date with the latest trends and tools.
+
+> Links
+
+- [Star Admin Free](https://www.bootstrapdash.com/product/star-admin-free/?ref=appseed) - the product page
+- [Star Admin Free](https://www.bootstrapdash.com/demo/star-admin-free/jquery/src/demo_1/index.html?ref=appseed) - Live DEMO
+
+![Star Admin Free - Open-Source admin panel crafted by BootstrapDash.](https://raw.githubusercontent.com/admin-dashboards/static/master/products/free-admin-dashboard-staradmin.jpg)
 
 ## [Creative-Tim](https://www.creative-tim.com/bootstrap-themes/free?ref=appseed)
 
