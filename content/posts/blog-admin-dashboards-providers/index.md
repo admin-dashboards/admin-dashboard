@@ -14,14 +14,14 @@ description: "A short-list with companies and freelancers that provide beautiful
 This article presents a short-list with open-source enthusiasts (companies and freelancers) that build and release their work as open-source products under permissive licenses (MIT, LGPL). Contributing to the open-Source ecosystem has some well-know benefits for all involved parties.
 
 - **Companies**, increase their visibility in the market as open-source providers, expose and get feedback from relevant communities and why not, return a small part from their profits back in the tech society.
-- The **consumers** are getting free software for learning and commercial benefits. Using an **open-source** projects might help you to save some time and deliver faster your product into the wild.
+- The **consumers** are getting free software for learning and commercial benefits. Using an **open-source** project might help you to save some time and deliver faster your product into the wild.
 
 The products and the providers were selected based on this list with criteria:
 
 - Products have a `usable` state, modern design and traction (Github Stars, mentions in the social media)
 - Permissive licenses - MIT, LGPL
 - Actively supported by the publishers
-- Products are accesible on a public platform (Github, BitBucket)
+- Products are accessible on a public platform (Github, BitBucket)
 
 ### The Short Lits
 
@@ -37,11 +37,11 @@ The products and the providers were selected based on this list with criteria:
 
 ## What is [open-source](https://en.wikipedia.org/wiki/Open-source_software)
 
-**Open-source** software is a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner - ** *Wikipedia defnition* **.
+**Open-source** software is a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner - ** *Wikipedia definition* **.
 
 ## What is a [dashboard](https://en.wikipedia.org/wiki/Dashboard_(business))
 
-A dashboard is a type of graphical user interface which often provides at-a-glance views of key performance indicators (KPIs) relevant to a particular objective or business process. In other usage, **dashboard** is another name for "progress report" or "report." The **dashboard** is often displayed on a web page which is linked to a database that allows the report to be constantly updated  - ** *Wikipedia defnition* **.
+A dashboard is a type of graphical user interface which often provides at-a-glance views of key performance indicators (KPIs) relevant to a particular objective or business process. In other usage, **dashboard** is another name for "progress report" or "report." The **dashboard** is often displayed on a web page which is linked to a database that allows the report to be constantly updated  - ** *Wikipedia definition* **.
 
 > Please find below the companies and their awesome open-source products:
 
@@ -96,7 +96,7 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 CoreUI admin dashboard delivers a bunch of responsive, customizable, and reusable components you need to create modern, beautiful, responsive apps. CoreUI makes app development lightning fast.
 
-- [CoreUI Bootstrap Admin Template](https://coreui.io/) - CoreUI is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high quality icons.
+- [CoreUI Bootstrap Admin Template](https://coreui.io/) - CoreUI is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high-quality icons.
 
 > CoreUI Dashboard Links:
 
@@ -112,7 +112,7 @@ We provide the Quality themes you need for your next project. Premium Bootstrap 
 
 ### [Atlantis Lite Bootstrap Dashboard](https://www.themekita.com/atlantis-lite-bootstrap-dashboard.html?ref=appseed)
 
-Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
+Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins, and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
 
 > Atlantis Dashboard Links:
 
@@ -123,7 +123,7 @@ Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 ## [CodeCalm](https://codecalm.net/)
 
-CodeCalm company built a simple and beautiful admin tamplate called [Tabler](https://tabler.io/). Tabler is an open-Source dashboard template with responsive and high quality UI.
+CodeCalm company built a simple and beautiful admin template called [Tabler](https://tabler.io/). Tabler is an open-Source dashboard template with responsive and high-quality UI.
 
 > Tabler Links:
 
