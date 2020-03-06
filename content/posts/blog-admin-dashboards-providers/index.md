@@ -33,7 +33,7 @@ The products and the providers were selected based on this list with criteria:
 
 <br />
 
-> Note: this is an open list and **Admin-Dashboards.com** is an [open-source project](https://github.com/admin-dashboards/dashboards), that publish  content  submitted by developers. Feel free to fork the project and add your stuff. Thank you!
+> Note: this is an open list and **Admin-Dashboards.com** is an [open-source project](https://github.com/admin-dashboards/dashboards), that publish the content submitted by developers. Feel free to `fork the project` and add your stuff. Thank you!
 
 ## What is [open-source](https://en.wikipedia.org/wiki/Open-source_software)
 
