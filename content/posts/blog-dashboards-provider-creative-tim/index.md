@@ -85,9 +85,4 @@ Products delivered by this partnership:
 - [Creative Tim Repository](https://github.com/creativetimofficial) - the official Github repository
 - [Open-Source and Free Dashboard Templates](https://www.creative-tim.com/blog/web-design/free-dashboard-templates/) - a curated list with free and opensource admin panels
 
-> Something is missing, or you want to contribute? Feel free to update this page on Github and make a `pull request` with your content. 
-
-
-
-
-
+> Something is missing, or you want to contribute? Feel free to update this page on Github and make a `pull request` with your content. Thank you!
