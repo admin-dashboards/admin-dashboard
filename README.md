@@ -86,8 +86,10 @@ To get Google's attention, we need to pass this simple checklist:
 
 <br />
 
-## Latest (5) [Blog](https://admin-dashboards.com/tags/blog) Articles
+## Latest [Blog](https://admin-dashboards.com/tags/blog) Articles
 
+- [PRO Admin Dashboards](https://admin-dashboards.com/blog/pro-admin-dashboards)
+- [BootstrapDash Admin Dashboards](https://admin-dashboards.com/blog/admin-dashboards-bootstrapdash)
 - [Admin Dashboards Providers](https://admin-dashboards.com/blog/open-source-admin-dashboards-providers)
 - [Black Design Admin Dashboards](https://admin-dashboards.com/blog/blog-open-source-admin-dashboards-black-design)
 - [Flask Dashboard Black](https://admin-dashboards.com/blog/flask-dashboard-black-open-source-admin-panel)
