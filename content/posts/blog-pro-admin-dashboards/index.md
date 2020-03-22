@@ -1,7 +1,7 @@
 ---
 title: PRO Admin Dashboards
 slug: blog/pro-admin-dashboards
-date: 2020-03-20
+date: 2020-03-22
 cover: ./cover.jpg
 language: en
 tags:
