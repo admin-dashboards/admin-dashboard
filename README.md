@@ -102,6 +102,7 @@ To get Google's attention, we need to pass this simple checklist:
 
 ## Latest (5) Products
 
+- [Flask Dashboard GradientAble](https://admin-dashboards.com/flask-dashboard-gradientable)
 - [Flask Dashboard Adminator](https://admin-dashboards.com/flask-dashboard-adminator)
 - [Flask Dashboard AdminLTE](https://admin-dashboards.com/flask-dashboard-adminlte)
 - [Flask Dashboard Atlantis Dark](https://admin-dashboards.com/flask-dashboard-atlantis-dark)
@@ -122,4 +123,3 @@ To get Google's attention, we need to pass this simple checklist:
 
 ---
 [Admin Dashboards](https://admin-dashboards.com) - open-source project.
-
