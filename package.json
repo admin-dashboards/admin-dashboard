@@ -69,7 +69,7 @@
     "lighthousebot": "https://github.com/GoogleChromeLabs/lighthousebot",
     "prettier": "^1.18.2",
     "puppeteer": "^1.17.0",
-    "semantic-release": "^15.13.18",
+    "semantic-release": "^17.2.3",
     "yaml": "^1.6.0"
   },
   "peerDependencies": {
