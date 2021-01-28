@@ -7,6 +7,16 @@
 
 <br />
 
+## Latest Articles
+
+- [React Dashboard](https://admin-dashboards.com/react-dashboard-modern-ui-kits/) - Modern Designs for 2021
+- [NextJS Template](https://admin-dashboards.com/next-js-template-material-kit-27vq/) - Material Kit
+- [React Dashboard](https://admin-dashboards.com/react-dashboard-volt-bootstrap-5/) - Volt Bootstrap 5
+- [Star Admin](https://admin-dashboards.com/star-admin-free-templates-react-vue-python-29bv/) - Free Dashboard available in React, Vue, Flask and Django.
+- [AdminKit](https://admin-dashboards.com/adminkit-bootstrap-5-dashboard-template/) - A modern Bootstrap 5 Dashboard Template
+
+<br />
+
 ### Status in Google 
 
 > Date of the last update - 2020-02-25
@@ -83,33 +93,6 @@ To get Google's attention, we need to pass this simple checklist:
    |
    | __________________________________
 ```
-
-<br />
-
-## Latest [Blog](https://admin-dashboards.com/tags/blog) Articles
-
-- [PRO Admin Dashboards](https://admin-dashboards.com/blog/pro-admin-dashboards)
-- [BootstrapDash Admin Dashboards](https://admin-dashboards.com/blog/admin-dashboards-bootstrapdash)
-- [Admin Dashboards Providers](https://admin-dashboards.com/blog/open-source-admin-dashboards-providers)
-- [Black Design Admin Dashboards](https://admin-dashboards.com/blog/blog-open-source-admin-dashboards-black-design)
-- [Flask Dashboard Black](https://admin-dashboards.com/blog/flask-dashboard-black-open-source-admin-panel)
-- [Django Dashboards - Open-Source and Free](https://admin-dashboards.com/blog/django-dashboards-open-source-and-free)
-- [Admin Dashboards - Open-Source and Free](https://admin-dashboards.com/blog/admin-dashboards-open-source-and-free)
-
-> Note: **Add your blog article** - fork & submit the content
-
-<br />
-
-## Latest (5) Products
-
-- [Flask Dashboard GradientAble](https://admin-dashboards.com/flask-dashboard-gradientable)
-- [Flask Dashboard Adminator](https://admin-dashboards.com/flask-dashboard-adminator)
-- [Flask Dashboard AdminLTE](https://admin-dashboards.com/flask-dashboard-adminlte)
-- [Flask Dashboard Atlantis Dark](https://admin-dashboards.com/flask-dashboard-atlantis-dark)
-- [Django Atlantis Dark](https://admin-dashboards.com/django-dashboard-atlantis-dark)
-- [Flask Dashboard Shards](https://admin-dashboards.com/flask-dashboard-shards)
-
-> Note: **Add your admin dashboard** - fork & submit the product
 
 <br />
 
